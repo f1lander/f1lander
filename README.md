@@ -35,10 +35,10 @@ I'm a persistent learner, constantly refreshing my toolkit to keep up with the e
 
 ## Experience
 
-### Front-end Lead Engineer | **ObolNetwork, San Pedro Sula, Honduras**
+### Front-end Lead | **ObolNetwork, San Pedro Sula, Honduras**
 _2021 - present_
 - Technologies: ethers.js, React.js, Node.js, JavaScript, Next.js
-- Lead the front-end projects, focusing on building distributed validators technology.
+- Lead and development the front-end projects, focusing on building distributed validators technology.
 - Projects:
   - [Dv-Launchpad](https://goerli.launchpad.obol.tech/)
   - [obol-ui / obol-sdk](https://github.com/ObolNetwork/obol-ui)
