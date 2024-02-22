@@ -17,6 +17,7 @@ I'm a persistent learner, constantly refreshing my toolkit to keep up with the e
 
 ## Skill Set
 
+- Web3 Development (ethers.js, viem, wagmi)
 - React.js / Nextjs
 - JavaScript, TypeScript
 - Jest, React-testing-library
@@ -29,7 +30,6 @@ I'm a persistent learner, constantly refreshing my toolkit to keep up with the e
 - HTML5, CSS3, SASS, Bootstrap
 - MongoDB, MySQL
 - Docker
-- Web3 Development (ethers.js, web3.js)
 - Git, Git Workflows
 - Agile Methodologies (Scrum, Kanban)
 
