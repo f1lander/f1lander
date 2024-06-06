@@ -36,7 +36,7 @@ I'm a persistent learner, constantly refreshing my toolkit to keep up with the e
 ## Experience
 
 ### Full-stack Developer | **DROSERA**
-_2024 - _present
+_2024 - present_
 - Technologies: viem, React.js, Node.js, JavaScript, Next.js, shadcdn, tailwindcss
 - Lead and development the front-end projects,
 
