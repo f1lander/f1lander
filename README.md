@@ -35,8 +35,17 @@ I'm a persistent learner, constantly refreshing my toolkit to keep up with the e
 
 ## Experience
 
+### Full-stack Developer | **DROSERA**
+_2024 - _present
+- Technologies: viem, React.js, Node.js, JavaScript, Next.js, shadcdn, tailwindcss
+- Lead and development the front-end projects,
+
+As a Full Stack Dapp Developer at Drosera, I specialize in building decentralized applications that integrate with the first and only decentralized incident response protocol.
+
+My role involves developing a user-friendly Dapp interface that facilitates access to a security marketplace where protocols can discreetly set emergency conditions, known as "Traps." These Traps, which define when an emergency response should be triggered without being deployed on-chain, are monitored and executed by Operators based on consensus when conditions are met. I leverage my skills in React, API integrations, and Solidity to enhance protocol security through innovative blockchain solutions, contributing to the robust analytics and operational capabilities of Drosera's platform.
+
 ### Front-end Lead | **ObolNetwork, San Pedro Sula, Honduras**
-_2021 - present_
+_2021 - 2024_
 - Technologies: ethers.js, React.js, Node.js, JavaScript, Next.js
 - Lead and development the front-end projects, focusing on building distributed validators technology.
 - Projects:
