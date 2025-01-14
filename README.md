@@ -11,7 +11,7 @@
 
 ## Profile
 
-Hey there, I'm Edax, a software engineer whose passion ignited at 15 when I dove into the world of coding during high school. This initial fascination turned into a 12+ year adventure in web development, where I've embarked on entrepreneurial ventures, built startups, and contributed to innovations in the GPS and medical software sectors.
+Hey there, I'm Edax, a software engineer whose passion ignited at 15 when I dove into the world of coding during high school. This initial fascination turned into a 13+ year adventure in web development, where I've embarked on entrepreneurial ventures, built startups, and contributed to innovations in the GPS and medical software sectors.
 
 I'm a persistent learner, constantly refreshing my toolkit to keep up with the evolving industry. I've transitioned from mastering the MERN and MEAN stacks to becoming an adept web3 developer, ready to explore the wonders of the decentralized web space. Feel free to ask me anything about my journey or the exciting projects I'm currently diving into!
 
